@@ -1,5 +1,5 @@
 # Generic SMP Resources
-
+the GenericSMP.zip you see in the repository is the latest version, it might not be functioning correctly but it contains the latest changes.
 ## This is the Generic SMP Resource Pack, its optional but we stil recommend it for gameplay at
 ## Generic SMP. The following text is the changes that this resource pack does.
 
