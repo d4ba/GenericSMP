@@ -30,3 +30,15 @@ the GenericSMP.zip you see in the repository is the latest version, it might not
 ```
 1: Cheeseburger
 ```
+### Netherite_Sword:
+```
+1: Blade of the void
+```
+
+### Black_stained_glass
+```
+1. Shard of the void
+```
+
+
+
