@@ -3,7 +3,7 @@
 ## This is the Generic SMP Resource Pack, its optional but we stil recommend it for gameplay at
 ## Generic SMP. The following text is the changes that this resource pack does.
 
-## Custom Models
+## Custom Model Data
 
 ### Bow:
 ```
