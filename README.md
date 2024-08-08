@@ -26,7 +26,7 @@
 1: Rift Sword (tier 3)
 ```
 
-### Steak:
+### Cooked_Beef:
 ```
 1: Cheeseburger
 ```
